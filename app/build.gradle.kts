@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.telaskotlin"
+    namespace = "br.edu.fatecpg.livros"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
